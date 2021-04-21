@@ -13,7 +13,7 @@ namespace Vaquinha.Domain.ViewModels
 
         [DisplayName("Quanto falta arrecadar?")]
         public double ValorRestanteMeta { get; set; }
-
+//**********************************************************************************************
         [DisplayName("Arrecadamos quanto?")]
         public double ValorTotalArrecadado { get; set; }
 
