@@ -8,6 +8,9 @@ using Vaquinha.MVC.Extensions;
 
 namespace Vaquinha.MVC
 {
+    
+    // teste ramificações   *********************************************
+
     public class Startup
     {
         public Startup(IConfiguration configuration)
