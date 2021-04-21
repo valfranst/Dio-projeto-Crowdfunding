@@ -10,6 +10,7 @@ namespace Vaquinha.MVC
 {
     
     // teste ramificações   *********************************************
+    //00000000000000000000000000000000000000000000000000000
 
     public class Startup
     {
